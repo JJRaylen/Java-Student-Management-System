@@ -1,4 +1,5 @@
 #Project Scenario:
+--------------------
 As a Junior Programmer at GreatLearning University, you are part of a team that designs 
 innovative, and user-friendly applications. You are assigned to develop a centralized 
 platform for managing student data and interactions through ArrayLists, the system aims 
