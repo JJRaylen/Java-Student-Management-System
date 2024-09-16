@@ -19,3 +19,5 @@ fee.
 8. ID, Name, courses enrolled, total fees, and balance should be displayed.
 9. Send confirmation email upon enrolment.
 10. Unit Test scripts and UAT test scripts
+---------------
+
