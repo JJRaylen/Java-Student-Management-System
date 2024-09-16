@@ -2,7 +2,7 @@
 As a Junior Programmer at GreatLearning University, you are part of a team that designs 
 innovative, and user-friendly applications. You are assigned to develop a centralized 
 platform for managing student data and interactions through ArrayLists, the system aims 
-to promote better communication, data accuracy, and informed decision-making.
+to promote better communication, data accuracy, and informed decision-making
 ---------------------
 #Project Requirements:
 Your application should do the following: 
